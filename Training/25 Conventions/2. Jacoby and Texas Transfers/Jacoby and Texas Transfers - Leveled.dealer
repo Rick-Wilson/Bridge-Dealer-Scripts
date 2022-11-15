@@ -1,0 +1,72 @@
+produce 1000
+
+# 1NT opener: 15-17 HCP, and balanced, or semi-balanced with 4 hearts:
+open_1nt = ( shape(north, any 5332 any 4432 any 4333 ) || shape(north, 2452 + 2425 ))
+  && hcp(north)>=15 && hcp(north)<=17
+
+responder_long_major = spades(south) >= 5 || hearts(south) >= 5
+
+super_spade_fit = spades(north) >= 4 && spades(south) >= 5 && spades(south) > hearts(south)
+super_heart_fit = hearts(north) >= 4 && hearts(south) >= 5 && hearts(south) > spades(south)
+super_fit = super_spade_fit || super_heart_fit
+super_accept = hcp(north) == 17 && super_fit
+
+jacoby = ( spades(south) == 5 && hearts(south) <= 4 )
+      || ( hearts(south) == 5 && spades(south) <= 4 )
+texas = spades(south) >= 6 || hearts(south) >= 6
+
+# Players are this level don't have systems to explore slam when holding a 5-card major, unless opener super-accepts.
+# So we'll only consider slam hands that are one of these two types:
+
+responder_length_points = ( spades(north) >= 5 ? spades(north) - 4 : 0 )
+                        + ( hearts(north) >= 5 ? hearts(north) - 4 : 0 )
+                        + ( diamonds(north) >= 5 ? diamonds(north) - 4 : 0 )
+                        + ( clubs(north) >= 5 ? clubs(north) - 4 : 0 )
+
+responder_total_points = hcp(south) + responder_length_points
+
+plan_part_score = responder_total_points <= 7
+plan_invite     = responder_total_points >= 8 && responder_total_points <= 9
+plan_slam       = responder_total_points >= 17 && ( texas || super_accept )
+plan_game       = responder_total_points >= 10 && not plan_slam
+
+jacoby_game = plan_game && jacoby
+texas_game  = plan_game && texas
+jacoby_slam = plan_slam && super_accept
+texas_slam  = plan_slam && texas
+
+# Frequency Reduction modifiers:
+
+# Really results in 53% as often:
+reduce_25_percent = hascard(east,2C) || hascard(west,2D)
+reduce_50_percent = hascard(east,2C)
+reduce_75_percent = hascard(east,2C) && hascard(west,2D)
+reduce_97_percent = hascard(east,2C) && hascard(west,2D) && hascard(east,3C)
+reduce_99_percent = hascard(east,2C) && hascard(west,2D) && hascard(east,3C) && hascard(east,4C)
+
+
+condition open_1nt
+             && responder_long_major
+
+# Leveling:
+&& (!plan_part_score || reduce_99_percent)
+&& (!plan_invite     || reduce_99_percent)
+&& (!jacoby_game     || reduce_99_percent)
+&& (!texas_game      || reduce_97_percent)
+&& (!texas_slam      || reduce_50_percent)
+
+action
+#average "Plan part score" 100 * plan_part_score,
+#average "Plan invite    " 100 * plan_invite,
+#average "Plan game      " 100 * plan_game,
+#average "Plan slam      " 100 * plan_slam,
+
+
+average "Part score   " 100 * plan_part_score,
+average "Jacoby invite" 100 * plan_invite,
+average "Jacoby game  " 100 * jacoby_game,
+average "Texas game   " 100 * texas_game,
+average "Jacoby slam  " 100 * jacoby_slam,
+average "Texas slam   " 100 * texas_slam,
+
+#frequency "responder total points" (responder_total_points,0,20)
