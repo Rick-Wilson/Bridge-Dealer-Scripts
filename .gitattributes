@@ -1,0 +1,2 @@
+# Treat our dealer files as Perl files, just for presentation in the editor windows (Perl also uses # comment character):
+*.dlr linguist-language=Perl
