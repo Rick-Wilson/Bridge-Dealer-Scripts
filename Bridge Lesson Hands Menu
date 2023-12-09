@@ -197,8 +197,7 @@ Import,AllNTResp,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob
 Import,RespTo1Minor,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Basic%20Responding%20to%201%20Minor
 
 # ACBL Bridge Series
-Import,ABS1-1,
-
+Import,ABS2-3,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
 
 Option,Practice Table
 
@@ -389,6 +388,7 @@ Button,-- Facebook: Practice Bidding Scenarios --,,width=100% backgroundColor=li
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 Button,ABS1 Bidding,,width=100% backgroundColor=papayawhip
+Import,ABS2-3
 Import,ABS1-1 Getting Started,,width=100% backgroundColor=seashell
 Button,ABS1-2 Objectives,,width=100% backgroundColor=seashell
 Button,ABS1-3 Responses to 1NT Opening Bids,,width=100% backgroundColor=seashell
