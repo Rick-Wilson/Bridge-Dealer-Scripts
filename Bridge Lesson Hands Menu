@@ -397,7 +397,7 @@ Button,ABS1-7 Overcalls and Advances,,width=100% backgroundColor=seashell
 Button,ABS1-8 Takeout Doubles and Advances,,width=100% backgroundColor=seashell
 Button,ABS1-9 The Stayman Convention,,width=100% backgroundColor=seashell
 Button,ABS2 Play of Hand in the 21st Century,,width=100% backgroundColor=papayawhip
-Import,ABS2-3
+#Import,ABS2-3
 Import,Lebensohl
 #Import,ABS1-1 Getting Started,,width=100% backgroundColor=seashell
 Button,ABS3 Defense,,width=100% backgroundColor=papayawhip
