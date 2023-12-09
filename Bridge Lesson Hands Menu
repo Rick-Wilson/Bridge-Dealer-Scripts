@@ -196,9 +196,6 @@ Import,OtherNTResp,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/bl
 Import,AllNTResp,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Basic%20All%20NT%20Responses
 Import,RespTo1Minor,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Basic%20Responding%20to%201%20Minor
 
-// ACBL Bridge Series
-// Import,ABS2dot3,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
-
 Option,Practice Table
 
 # Button,Start Bidding Table,,width=50% backgroundColor=lightgreen
