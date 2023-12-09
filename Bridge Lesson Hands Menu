@@ -386,7 +386,7 @@ Import,NegativeFreeBid
 
 Button,-- Facebook: Practice Bidding Scenarios --,,width=100% backgroundColor=lightyellow
 
-Button,ABCL Bridge Series 2,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 Button,ABS1 Bidding in the 21st Century,,width=100% backgroundColor=papayawhip
 Button,ABS1-2 Objectives,,width=100% backgroundColor=seashell
 Button,ABS1-3 Responses to 1NT Opening Bids,,width=100% backgroundColor=seashell
