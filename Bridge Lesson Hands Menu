@@ -202,7 +202,7 @@ Option,Practice Table
 # Button,Review code,%reviewCurrentCode%,width=50% backgroundColor=lightgreen
 
 Button,Bidding Scenarios (click headers to open/close),,width=100% backgroundColor=lightyellow
-Button,Review code 2,%reviewCurrentCode%,width=100% backgroundColor=lightgreen
+Button,Review code 3,%reviewCurrentCode%,width=100% backgroundColor=lightgreen
 Script,reviewCurrentCode,setDealerCode("");
 
 Button,Basic Bridge,,width=100% backgroundColor=lightblue
@@ -384,7 +384,7 @@ Import,NegativeFreeBid
 Button,-- Facebook: Practice Bidding Scenarios --,,width=100% backgroundColor=lightyellow
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
-Import,Lebensohl
+#Import,Lebensohl
 Button,Test,,width=100% backgroundColor=lightblue
 
 Option
