@@ -396,7 +396,7 @@ Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 #Button,ABS1-7 Overcalls and Advances,,width=100% backgroundColor=seashell
 #Button,ABS1-8 Takeout Doubles and Advances,,width=100% backgroundColor=seashell
 #Button,ABS1-9 The Stayman Convention,,width=100% backgroundColor=seashell
-#Button,ABS2 Play of Hand in the 21st Century,,width=100% backgroundColor=papayawhip
+#Button,ABS2 Play of Hand in the 21st Century,,width=100% backgroundColor=lightblue
 #Import,ABS2dot3
 Import,Lebensohl
 Button,---
