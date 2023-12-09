@@ -1,7 +1,10 @@
-Script,ABS
+Script,ABS2-3
 
 Script
-Button,ABS2-3,\n\
+Button,Developing Tricks - The Finesse,,width=75% backgroundColor=gold
+Button,S,,width=5% backgroundColor=wheat
+Button,NS,,width=10% backgroundColor=wheat
+Button,All,,width=10% backgroundColor=wheat
 --- ABS2-3 Developing Tricks -- the Finesse, Two-person play:\n\
 Deal file: https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
 Analysis:  https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
