@@ -392,7 +392,7 @@ Button,Developing Tricks - The Finesse,,width=75% backgroundColor=lightblue
 Button,S,,width=5% backgroundColor=lightblue
 Button,NS,,width=10% backgroundColor=lightblue
 Button,All,,width=10% backgroundColor=lightblue
-Button,Test 7,,width=100% backgroundColor=lightblue
+Button,Test 8,,width=100% backgroundColor=lightblue
 Import,ABS
 
 #Import,Lebensohl
