@@ -3,5 +3,6 @@ Script,ABS
 Script
 Button,ABS2-3,\n\
 --- ABS2-3\n\
-Test message file location\n\
+Two-person play:\n\
+https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=drive_link\n\
 %ABS%
