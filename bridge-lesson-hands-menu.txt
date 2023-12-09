@@ -385,5 +385,23 @@ Import,NegativeFreeBid
 Button,-- Facebook: Practice Bidding Scenarios --,,width=100% backgroundColor=lightyellow
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
+Button,ABS1 Bidding,,width=20% backgroundColor=papayawhip
+Button,ABS1-1 Getting Started,,width=100% backgroundColor=seashell
+Button,1-player,,width=25% backgroundColor=deeppink
+Button,2-player,,width=25% backgroundColor=deeppink
+Button,3-player,,width=25% backgroundColor=deeppink
+Button,4-player,,width=25% backgroundColor=deeppink
+Button,ABS1-2 Objectives,,width=100% backgroundColor=seashell
+Button,ABS1-3 Responses to 1NT Opening Bids,,width=100% backgroundColor=seashell
+Button,ABS1-4 Responses to an opening Bid of One in a Suit,,width=100% backgroundColor=seashell
+Button,ABS1-5 Rebids by Opener,,width=100% backgroundColor=seashell
+Button,ABS1-6 Rebids by Responder,,width=100% backgroundColor=seashell
+Button,ABS1-7 Overcalls and Advances,,width=100% backgroundColor=seashell
+Button,ABS1-8 Takeout Doubles and Advances,,width=100% backgroundColor=seashell
+Button,ABS1-8 Takeout Doubles and Advances,,width=100% backgroundColor=seashell
+Button,ABS2 Play of Hand,,width=20% backgroundColor=papayawhip
+Button,ABS3 Defense,,width=20% backgroundColor=papayawhip
+Button,ABS4 Conventions 1,,width=20% backgroundColor=papayawhip
+Button,ABS5 Conventions 2,,width=20% backgroundColor=papayawhip
 
 Option
