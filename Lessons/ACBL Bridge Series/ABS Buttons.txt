@@ -68,7 +68,133 @@ Script,ABS2-3-All
   R += "Hand Writeups: https://drive.google.com/file/d/10VrXoPm_oOMjNafqRoHAMTOv_mA-53Gi/view?usp=drive_link?usp=drive_link\\n"
 Script
 
-Button,ABCL Bridge Series 0.11,,width=100% backgroundColor=orange
+Script,ABS2-4-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-4-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-4-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-5-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-5 Watching Out for Entries - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-5-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-5 Watching Out for Entries - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-5-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-5 Watching Out for Entries - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-6-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-6 Watching Out for the Opponents - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-6-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-6 Watching Out for the Opponents - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-6-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-6 Watching Out for the Opponents - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-7-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-7 Managing the Trump Suit - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-7-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-7 Managing the Trump Suit - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-7-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-7 Managing the Trump Suit - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-8-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-8 Putting It All Together - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-8-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-8 Putting It All Together - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-8-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-8 Putting It All Together - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-9-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-9 Jacoby Transfers - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-9-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-9 Jacoby Transfers - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-9-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-9 Jacoby Transfers - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Button,ABCL Bridge Series 0.12,,width=100% backgroundColor=orange
 
 // ----------- ABS1 - Bidding in the 21st Century ---------------
 
@@ -92,6 +218,36 @@ Button,Developing Tricks - the Finesse,%ClickRoundButton%,width=70% backgroundCo
 Button,S,%ABS2-3-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-3-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-3-All%,width=10% borderRadius=100%
+
+Button,Eliminating Losers - Ruffing and Discarding,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-4-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-4-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-4-All%,width=10% borderRadius=100%
+
+Button,Watching Out for Entries,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-5-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-5-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-5-All%,width=10% borderRadius=100%
+
+Button,Watching Out for the Opponents,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-6-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-6-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-6-All%,width=10% borderRadius=100%
+
+Button,Managing the Trump Suit,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-7-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-7-All%,width=10% borderRadius=100%
+
+Button,Putting It All Together,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-8-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-8-All%,width=10% borderRadius=100%
+
+Button,Jacoby Transfers,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-9-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-9-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-9-All%,width=10% borderRadius=100%
 
 Button,Watching Out for Entries,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
