@@ -25,7 +25,7 @@ this.onclick = function () {
 try {
 // toggle all white buttons until a non-white button found
 var e = $(this).next();(
-while ((e[0].style.backgroundColor == "white") || e[0].style.backgroundColor == "bisque")) {
+while (e[0].style.backgroundColor == "white") {
 $(e).toggle();
 e = $(e).next();
 }
@@ -39,7 +39,7 @@ $("#adpanel2 button")[3].show = true;
 $("#adpanel2 button")[3].onclick = function () {
 this.show = !this.show;
 var toShow = this.show;
-$("#adpanel2 button").filter(function () { return (this.style.backgroundColor == "white" || this.style.backgroundColor == "bisque") })
+$("#adpanel2 button").filter(function () { return this.style.backgroundColor == "white" })
 // add click handlers to all leghtblue buttons
 .each(function (idx) {
 if (idx > 2)
@@ -86,7 +86,7 @@ Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lesson
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-Button,Developing Tricks - The Finesse,,width=75% backgroundColor=bisque
+Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
 Button,S,,width=5% backgroundColor=white
 Import,ABS
 Button,NS,,width=10% backgroundColor=white
