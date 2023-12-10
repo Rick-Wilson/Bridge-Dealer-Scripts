@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.7,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.8,,width=100% backgroundColor=orange
 
 Button,Bidding the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 
@@ -34,7 +34,7 @@ Button,All,\n\
 Button,Developing Tricks - The Finesse,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
 
-Button,S1,\n\
+Button,S,\n\
 •\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - S\n\
@@ -42,7 +42,7 @@ Deal Source:   https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY
 Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
-Button,NS1,\n\
+Button,NS,\n\
 •\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - NS\n\
 --- ABS2-3 Developing Tricks: the Finesse -- 2-person play:\n\
@@ -50,7 +50,7 @@ Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW
 Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
-Button,All1,\n\
+Button,All,\n\
 •\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - NESW\n\
 --- ABS2-3 Developing Tricks: the Finesse -- 4-person play:\n\
