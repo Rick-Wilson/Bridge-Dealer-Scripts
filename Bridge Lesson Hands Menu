@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 0.0.9
+//BBOalert, Bidding Lessons - version 0.0.10
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -101,6 +101,12 @@ Button,👏,👏\n,width= borderRadius=100% fontSize=32px
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 
+Script,ABS2-3-NS
+--- ABS2-3 Developing Tricks: the Finesse -- N/S play:\n\
+Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
+Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
+Script
+
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
 Button,S,South-only\n\
@@ -108,8 +114,9 @@ Button,S,South-only\n\
 Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
 Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
 ,width=5% borderRadius=100%
-Button,NS,NS-only\n,width=10% borderRadius=100%
+Button,NS,%ABS2-3-NS%,width=10% borderRadius=100%
 Button,All,Full table\n,width=10% borderRadius=100%
+
 
 // Import,ABS
 Button,Lebelsohl 1,,width=100% backgroundColor=lightblue
