@@ -15,7 +15,7 @@ Button,S,\n\
 Button,NS,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,NESW,\n\
+Button,All,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
 
@@ -27,21 +27,12 @@ Button,S,\n\
 Button,NS,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,NESW,\n\
+Button,All,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
 
 Button,Developing Tricks - The Finesse,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
-Button,S,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,NS,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,NESW,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
 
 Button,S,\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
