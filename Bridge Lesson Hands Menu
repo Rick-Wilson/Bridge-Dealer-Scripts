@@ -19,13 +19,13 @@ Script
 // Expand & Collapse Sections
 //Script,onDataLoad
 $("#adpanel2 button").filter(function () { return (this.style.backgroundColor == "lightblue") })
-// add click handlers to all leghtblue buttons
+// add click handlers to all lightblue buttons
 .each(function () {
 this.onclick = function () {
 try {
 // toggle all white buttons until a non-white button found
 var e = $(this).next();
-while (e[0].style.backgroundColor == "white") {
+while ((e[0].style.backgroundColor == "white") || e[0].style.backgroundColor == "bisque")) {
 $(e).toggle();
 e = $(e).next();
 }
@@ -86,7 +86,7 @@ Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lesson
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
+Button,Developing Tricks - The Finesse,,width=75% backgroundColor=bisque
 Button,S,,width=5% backgroundColor=white
 Import,ABS
 Button,NS,,width=10% backgroundColor=white
