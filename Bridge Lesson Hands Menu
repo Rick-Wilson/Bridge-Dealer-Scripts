@@ -80,20 +80,15 @@ For each individual doc file where the code is defined you should :
 - publish the files as web page
 - add the Import statements with the URL od published web pages
 
-
 Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
-
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
 Button,S,,width=5% backgroundColor=white
-Import,ABS
 Button,NS,,width=10% backgroundColor=white
 Button,All,,width=10% backgroundColor=white
 Button,Test 16,,width=100% backgroundColor=lightblue
 Import,ABS
-
-#Import,Lebensohl
 
 Option
