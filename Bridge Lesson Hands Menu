@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 0.0.4
+//BBOalert, Bidding Lessons - version 0.0.5
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -80,7 +80,7 @@ For each individual doc file where the code is defined you should :
 - publish the files as web page
 - add the Import statements with the URL od published web pages
 
-//Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
+// Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
 Import,Lebensohl,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Dealer%20Lebensohl.txt
 
 Button,Transfer, Transfer to,backgroundColor=yellow width=40% fontSize=32px borderRadius=100%
@@ -100,13 +100,15 @@ Button,😊,😊\n,width= borderRadius=100% fontSize=32px
 Button,👏,👏\n,width= borderRadius=100% fontSize=32px
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
-//Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-//Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
-//Button,S,,width=5% backgroundColor=white
-//Button,NS,,width=10% backgroundColor=white
-//Button,All,,width=10% backgroundColor=white
+/*
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-//Import,ABS
+Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
+Button,S,,width=5% backgroundColor=white
+Button,NS,,width=10% backgroundColor=white
+Button,All,,width=10% backgroundColor=white
+*/
+Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
+// Import,ABS
 Button,Lebelsohl 1,,width=100% backgroundColor=lightblue
 Import,Lebensohl
 
