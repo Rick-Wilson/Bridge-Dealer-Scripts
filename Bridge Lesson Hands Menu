@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 0.0.2
+//BBOalert, Bidding Lessons - version 0.0.3
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -82,6 +82,22 @@ For each individual doc file where the code is defined you should :
 
 Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
 Import,Lebensohl,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Dealer%20Lebensohl.txt
+
+Button,Transfer, Transfer to,backgroundColor=yellow width=40% fontSize=32px borderRadius=100%
+Button,♣, !C,width=11% fontSize=32px borderRadius=100%
+Button,♦, !D,width=11% fontSize=32px borderRadius=100% color=red
+Button,♥, !H,width=11% fontSize=32px borderRadius=100% color=red
+Button,♠, !S,width=11% fontSize=32px borderRadius=100%
+Button,NT, NT,borderRadius=100% width=16% fontSize=32px
+Button,Send, \n,borderRadius=100% width=40% fontSize=32px
+Button,Emoticons 2,,width=100% backgroundColor=palegreen fontSize=16px
+Button,😀,😀\n,width= borderRadius=100% fontSize=32px
+Button,😞,😞\n,width= borderRadius=100% fontSize=32px
+Button,😢,😢\n,width= borderRadius=100% fontSize=32px
+Button,👍,👍\n,width= borderRadius=100% fontSize=32px
+Button,👎,👎\n,width= borderRadius=100% fontSize=32px
+Button,😊,😊\n,width= borderRadius=100% fontSize=32px
+Button,👏,👏\n,width= borderRadius=100% fontSize=32px
 
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 //Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
