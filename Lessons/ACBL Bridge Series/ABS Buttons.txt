@@ -1,9 +1,13 @@
 Script,ABS
 Script
 
+Button,ABCL Bridge Series 0.15,,width=100% backgroundColor=orange
+
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
 Script
+
+// --------------- ABS 2 - Play of the Hand in the 21st Century ---------------
 
 Script,ABS2-1-S
   R  = "---\\n"
@@ -194,7 +198,196 @@ Script,ABS2-9-All
   R += "Hand Writeups: TBD\\n"
 Script
 
-Button,ABCL Bridge Series 0.14,,width=100% backgroundColor=orange
+// --------------- ABS 3 - Defense in the 21st Century ---------------
+
+Script,ABS3-1-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-1 Opening Leads Against NT - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-1-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-1 Opening Leads Against NT - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-1-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-1 Opening Leads Against NT - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-2-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-2 Opening Leads Against Suits - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-2-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-2 Opening Leads Against Suits - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-2-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-2 Opening Leads Against Suits - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-3-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-3 Third-Hand Play - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-3-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-3 Third-Hand Play - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-3-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-3 Third-Hand Play - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-4-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-4 Second-Hand Play - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-4-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-4 Second-Hand Play - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-4-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-4 Second-Hand Play - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-5-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-5 Defensive Signals - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-5-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-5 Defensive Signals - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-5-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-5 Defensive Signals - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-6-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-6 Developing Defensive Tricks - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-6-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-6 Developing Defensive Tricks - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-6-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-6 Developing Defensive Tricks - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-7-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-7 Interfering With Declarer - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-7-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-7 Interfering With Declarer - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-7-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-7 Interfering With Declarer - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-8-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-8 Making a Plan - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-8-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-8 Making a Plan - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-8-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-8 Making a Plan - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-9-S
+  R  = "---\\n"
+  R += "Folder name:   ABS3-9 Negative Double - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-9-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS3-9 Negative Double - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS3-9-All
+  R  = "---\\n"
+  R += "Folder name:   ABS3-9 Negative Double - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
 
 // ----------- ABS1 - Bidding in the 21st Century ---------------
 
@@ -252,6 +445,51 @@ Button,All,%ABS2-9-All%,width=10% borderRadius=100%
 // ----------- ABS3 - Defense in the 21st Century ---------------
 
 Button,Defense in the 21st Century,,width=100% backgroundColor=lightblue
+
+Button,Opening Leads Against NT,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-1-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-1-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-1-All%,width=10% borderRadius=100%
+
+Button,Openint Leads Against Suits,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-2-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-2-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-2-All%,width=10% borderRadius=100%
+
+Button,Third-Hand Play,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-3-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-3-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-3-All%,width=10% borderRadius=100%
+
+Button,Second-Hand Play,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-4-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-4-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-4-All%,width=10% borderRadius=100%
+
+Button,Defensive Signals,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-5-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-5-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-5-All%,width=10% borderRadius=100%
+
+Button,Developing Defensive Tricks,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-6-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-6-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-6-All%,width=10% borderRadius=100%
+
+Button,Interfering With Declarer,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-7-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-7-All%,width=10% borderRadius=100%
+
+Button,Making a Plan,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-8-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-8-All%,width=10% borderRadius=100%
+
+Button,Negative Doubles,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS3-9-S%,width=10% borderRadius=100%
+Button,NS,%ABS3-9-NS%,width=10% borderRadius=100%
+Button,All,%ABS3-9-All%,width=10% borderRadius=100%
 
 Button,Commonly Used Conventions in the 21st Century,,width=100% backgroundColor=lightblue
 
