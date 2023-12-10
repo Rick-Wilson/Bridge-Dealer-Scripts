@@ -106,7 +106,7 @@ Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 //Button,NS,,width=10% backgroundColor=white
 //Button,All,,width=10% backgroundColor=white
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-Import,ABS
+//Import,ABS
 Button,Lebelsohl 1,,width=100% backgroundColor=lightblue
 Import,Lebensohl
 
