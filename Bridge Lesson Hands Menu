@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 0.0.10
+//BBOalert, Bidding Lessons - version 0.0.11
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -83,39 +83,29 @@ For each individual doc file where the code is defined you should :
 // Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
 Import,Lebensohl,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Dealer%20Lebensohl.txt
 
-Button,Transfer, Transfer to,backgroundColor=yellow width=40% fontSize=32px borderRadius=100%
-Button,♣, !C,width=11% fontSize=32px borderRadius=100%
-Button,♦, !D,width=11% fontSize=32px borderRadius=100% color=red
-Button,♥, !H,width=11% fontSize=32px borderRadius=100% color=red
-Button,♠, !S,width=11% fontSize=32px borderRadius=100%
-Button,NT, NT,borderRadius=100% width=16% fontSize=32px
-Button,Send, \n,borderRadius=100% width=40% fontSize=32px
-Button,Emoticons 2,,width=100% backgroundColor=palegreen fontSize=16px
-Button,😀,😀\n,width= borderRadius=100% fontSize=32px
-Button,😞,😞\n,width= borderRadius=100% fontSize=32px
-Button,😢,😢\n,width= borderRadius=100% fontSize=32px
-Button,👍,👍\n,width= borderRadius=100% fontSize=32px
-Button,👎,👎\n,width= borderRadius=100% fontSize=32px
-Button,😊,😊\n,width= borderRadius=100% fontSize=32px
-Button,👏,👏\n,width= borderRadius=100% fontSize=32px
-
 Button,ABCL Bridge Series,,width=100% backgroundColor=orange
 
-Script,ABS2-3-NS
---- ABS2-3 Developing Tricks: the Finesse -- N/S play:\n\
-Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
-Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
-Script
-
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
-Button,Developing Tricks - The Finesse,,width=75% backgroundColor=white
-Button,S,South-only\n\
+
+Button,Developing Tricks - The Finesse,,width=70% backgroundColor=white
+
+Button,S,\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
 Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
 Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
-,width=5% borderRadius=100%
-Button,NS,%ABS2-3-NS%,width=10% borderRadius=100%
-Button,All,Full table\n,width=10% borderRadius=100%
+,width=10% borderRadius=100%
+
+Button,NS,\n\
+--- ABS2-3 Developing Tricks: the Finesse -- 2-person play:\n\
+Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
+Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
+,width=10% borderRadius=100%
+
+Button,All\n\
+--- ABS2-3 Developing Tricks: the Finesse -- 4-person play:\n\
+Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
+Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=sharing\n\
+,width=10% borderRadius=100%
 
 
 // Import,ABS
