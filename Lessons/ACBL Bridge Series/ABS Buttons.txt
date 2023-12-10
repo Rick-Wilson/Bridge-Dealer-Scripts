@@ -1,81 +1,112 @@
 Script,ABS
 Script
 
+Script,ClickRoundButton
+  R = "Click round button for hand files\\n"
+Script
+
+Script,ABS2-1-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-1 Making a Plan - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-1-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-1 Making a Plan - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-1-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-1 Making a Plan - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-2-S
+  R  = "---\\n"
+  R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-2-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS2-2-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
 Script,ABS2-3-S
-  R  = "\\n"
+  R  = "---\\n"
   R += "Folder name:   ABS2-3 Developing Tricks: the Finesse - S\\n"
   R += "Deal Source:   https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY/view?usp=drive_link\\n"
   R += "Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\\n"
 Script
 
-Button,ABCL Bridge Series 0.10,,width=100% backgroundColor=orange
+Script,ABS2-3-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS2-3 Developing Tricks: the Finesse - NS\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link\\n"
+Script
+
+Script,ABS2-3-All
+  R  = "---\\n"
+  R += "Folder name:   ABS2-3 Developing Tricks: the Finesse - All\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10Mv7Nq-mbYAQfe6KfnoFd4-GSiPhHMeo/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/10VrXoPm_oOMjNafqRoHAMTOv_mA-53Gi/view?usp=drive_link?usp=drive_link\\n"
+Script
+
+Button,ABCL Bridge Series 0.11,,width=100% backgroundColor=orange
+
+// ----------- ABS1 - Bidding in the 21st Century ---------------
 
 Button,Bidding the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 
+// ----------- ABS2 - Play of the Hand in the 21st Century ---------------
+
 Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 
-Button,Making a Plan,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
-Button,S,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,NS,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,All,\n\
---- ABS2-1 Making a Plan -- One-person play:\n\
-,width=10% borderRadius=100%
+Button,Making a Plan,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-1-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-1-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-1-All%,width=10% borderRadius=100%
 
-Button,Developing Tricks - Promotion and Length,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
-Button,S,\n\
---- ABS2-2 Developing Tricks - Promotion and Length -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,NS,\n\
---- ABS2-2 Developing Tricks - Promotion and Length -- One-person play:\n\
-,width=10% borderRadius=100%
-Button,All,\n\
---- ABS2-2 Developing Tricks - Promotion and Length -- One-person play:\n\
-,width=10% borderRadius=100%
+Button,Developing Tricks - Promotion and Length,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS2-2-S%,width=10% borderRadius=100%
+Button,NS,%ABS2-2-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-2-All%,width=10% borderRadius=100%
 
-Button,Developing Tricks - The Finesse,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
-
+Button,Developing Tricks - the Finesse,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS2-3-S%,width=10% borderRadius=100%
-
-Button,NS,\n\
-•\n\
-Filename:      ABS2-3 Developing Tricks: the Finesse - NS\n\
---- ABS2-3 Developing Tricks: the Finesse -- 2-person play:\n\
-Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=drive_link\n\
-Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link\n\
-,width=10% borderRadius=100%
-
-Button,All,\n\
-•\n\
-Filename:      ABS2-3 Developing Tricks: the Finesse - NESW\n\
---- ABS2-3 Developing Tricks: the Finesse -- 4-person play:\n\
-Deal Source:   https://drive.google.com/file/d/10Mv7Nq-mbYAQfe6KfnoFd4-GSiPhHMeo/view?usp=drive_link\n\
-Hand Writeups: https://drive.google.com/file/d/10VrXoPm_oOMjNafqRoHAMTOv_mA-53Gi/view?usp=drive_link\n\
-,width=10% borderRadius=100%
+Button,NS,%ABS2-3-NS%,width=10% borderRadius=100%
+Button,All,%ABS2-3-All%,width=10% borderRadius=100%
 
 Button,Watching Out for Entries,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
 
-Button,Watching Out for the Opponents,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
+Button,Watching Out for the Opponents,%ClickRoundButton%,width=70% backgroundColor=white
 
-Button,Managing the Trump Suit,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
+Button,Managing the Trump Suit,%ClickRoundButton%,width=70% backgroundColor=white
 
-Button,Putting It All Together,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
+Button,Putting It All Together,%ClickRoundButton%,width=70% backgroundColor=white
 
-Button,Jacoby Transfers,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
+Button,Jacoby Transfers,%ClickRoundButton%,width=70% backgroundColor=white
 
-Button,Eliminating Losers - Ruffing & Discarding,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
+Button,Eliminating Losers - Ruffing & Discarding,%ClickRoundButton%,width=70% backgroundColor=white
+
+// ----------- ABS3 - Defense in the 21st Century ---------------
 
 Button,Defense in the 21st Century,,width=100% backgroundColor=lightblue
 
