@@ -194,7 +194,7 @@ Script,ABS2-9-All
   R += "Hand Writeups: TBD\\n"
 Script
 
-Button,ABCL Bridge Series 0.12,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.14,,width=100% backgroundColor=orange
 
 // ----------- ABS1 - Bidding in the 21st Century ---------------
 
@@ -248,19 +248,6 @@ Button,Jacoby Transfers,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS2-9-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-9-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-9-All%,width=10% borderRadius=100%
-
-Button,Watching Out for Entries,\n\
-Click round button for hand files\n,width=70% backgroundColor=white
-
-Button,Watching Out for the Opponents,%ClickRoundButton%,width=70% backgroundColor=white
-
-Button,Managing the Trump Suit,%ClickRoundButton%,width=70% backgroundColor=white
-
-Button,Putting It All Together,%ClickRoundButton%,width=70% backgroundColor=white
-
-Button,Jacoby Transfers,%ClickRoundButton%,width=70% backgroundColor=white
-
-Button,Eliminating Losers - Ruffing & Discarding,%ClickRoundButton%,width=70% backgroundColor=white
 
 // ----------- ABS3 - Defense in the 21st Century ---------------
 
