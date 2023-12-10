@@ -1,9 +1,8 @@
 Script,ABS
 
 Script
-Button,Developing Tricks - the Finesse,,width=80%
+Button,Developing Tricks - the Finesse 1,,width=80%
 
-Script
 Button,S,,width=5%\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
 Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=sharing\n\
