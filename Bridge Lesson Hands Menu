@@ -24,7 +24,7 @@ $("#adpanel2 button").filter(function () { return (this.style.backgroundColor ==
 this.onclick = function () {
 try {
 // toggle all white buttons until a non-white button found
-var e = $(this).next();
+var e = $(this).next();(
 while ((e[0].style.backgroundColor == "white") || e[0].style.backgroundColor == "bisque")) {
 $(e).toggle();
 e = $(e).next();
