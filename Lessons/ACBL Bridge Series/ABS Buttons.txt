@@ -10,20 +10,23 @@ Click round button for hand files\n,width=70% backgroundColor=white
 
 Button,S,\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
-\n\
+•\n\
+Filename:      ABS2-3 Developing Tricks: the Finesse - S
 Deal Source:   https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY/view?usp=drive_link\n\
 Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
 Button,NS,\n\
-\n\
+•\n\
+Filename:      ABS2-3 Developing Tricks: the Finesse - NS
 --- ABS2-3 Developing Tricks: the Finesse -- 2-person play:\n\
 Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=drive_link\n\
 Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
 Button,All,\n\
-\n\
+•\n\
+Filename:      ABS2-3 Developing Tricks: the Finesse - NESW
 --- ABS2-3 Developing Tricks: the Finesse -- 4-person play:\n\
 Deal Source:   https://drive.google.com/file/d/10Mv7Nq-mbYAQfe6KfnoFd4-GSiPhHMeo/view?usp=drive_link\n\
 Hand Writeups: https://drive.google.com/file/d/10VrXoPm_oOMjNafqRoHAMTOv_mA-53Gi/view?usp=drive_link\n\
