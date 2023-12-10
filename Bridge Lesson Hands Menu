@@ -1,5 +1,5 @@
 //BBOalert, Bridge Lesson Hands
-//BBOalert, Bridge Lesson Hands - version 0.0.14
+//BBOalert, Bridge Lesson Hands - version 0.0.15
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -82,7 +82,7 @@ For each individual doc file where the code is defined you should :
 
 Import,Lebensohl,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Dealer%20Lebensohl.txt
 
-Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS2-3%20Developing%20Tricks%20-%20The%20Finesse.txt
+Import,ABS,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Lessons/ACBL%20Bridge%20Series/ABS%20Buttons.txt
 Import,ABS
 
 Button,Lebelsohl 1,,width=100% backgroundColor=lightblue
