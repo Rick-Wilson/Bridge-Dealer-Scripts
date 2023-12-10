@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 0.0.3
+//BBOalert, Bidding Lessons - version 0.0.4
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
