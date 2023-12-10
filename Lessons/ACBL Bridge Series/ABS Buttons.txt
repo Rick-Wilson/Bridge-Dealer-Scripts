@@ -9,32 +9,32 @@ Button,Play of the Hand in the 21st Century,,width=100% backgroundColor=lightblu
 
 Button,Making a Plan,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
-Button,S,\n\
+Button,ABS2-1-S,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,NS,\n\
+Button,ABS2-1-NS,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,All,\n\
+Button,ABS2-1-All,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
 
 Button,Developing Tricks - Promotion and Length,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
-Button,S,\n\
+Button,ABS2-2-S,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,NS,\n\
+Button,ABS2-2-NS,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
-Button,All,\n\
+Button,ABS2-2-All,\n\
 --- ABS2-1 Making a Plan -- One-person play:\n\
 ,width=10% borderRadius=100%
 
 Button,Developing Tricks - The Finesse,\n\
 Click round button for hand files\n,width=70% backgroundColor=white
 
-Button,S,\n\
+Button,ABS2-3-S,\n\
 --- ABS2-3 Developing Tricks: the Finesse -- One-person play:\n\
 •\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - S
@@ -42,7 +42,7 @@ Deal Source:   https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY
 Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
-Button,NS,\n\
+Button,ABS2-3-NS,\n\
 •\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - NS
 --- ABS2-3 Developing Tricks: the Finesse -- 2-person play:\n\
@@ -50,7 +50,7 @@ Deal Source:   https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW
 Hand Writeups: https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link\n\
 ,width=10% borderRadius=100%
 
-Button,All,\n\
+Button,ABS2-3-All,\n\
 •\n\
 Filename:      ABS2-3 Developing Tricks: the Finesse - NESW
 --- ABS2-3 Developing Tricks: the Finesse -- 4-person play:\n\
