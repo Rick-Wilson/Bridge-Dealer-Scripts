@@ -1,5 +1,5 @@
 //BBOalert, Bidding Lessons
-//BBOalert, Bidding Lessons - version 1.6
+//BBOalert, Bidding Lessons - version 0.1
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -19,12 +19,12 @@ Script
 // Expand & Collapse Sections
 //Script,onDataLoad
 $("#adpanel2 button").filter(function () { return (this.style.backgroundColor == "lightblue") })
-// add click handlers to all lightblue buttons
+// add click handlers to all leghtblue buttons
 .each(function () {
 this.onclick = function () {
 try {
 // toggle all white buttons until a non-white button found
-var e = $(this).next();(
+var e = $(this).next();
 while (e[0].style.backgroundColor == "white") {
 $(e).toggle();
 e = $(e).next();
@@ -39,7 +39,7 @@ $("#adpanel2 button")[3].show = true;
 $("#adpanel2 button")[3].onclick = function () {
 this.show = !this.show;
 var toShow = this.show;
-$("#adpanel2 button").filter(function () { return this.style.backgroundColor == "white" })
+$("#adpanel2 button").filter(function () { return (this.style.backgroundColor == "white") })
 // add click handlers to all leghtblue buttons
 .each(function (idx) {
 if (idx > 2)
