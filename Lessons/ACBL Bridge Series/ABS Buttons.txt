@@ -3,12 +3,12 @@ Script
 
 Script,ABS2-3-S
   R  = "\\n"
-  R += "Folder name:   ABS2-3 Developing Tricks: the Finesse - S\\n\"
+  R += "Folder name:   ABS2-3 Developing Tricks: the Finesse - S\\n"
   R += "Deal Source:   https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY/view?usp=drive_link\\n"
-  R += "Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link\\n"
 Script
 
-Button,ABCL Bridge Series 0.9,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.10,,width=100% backgroundColor=orange
 
 Button,Bidding the Hand in the 21st Century,,width=100% backgroundColor=lightblue
 
