@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.21,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.22,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -9,6 +9,197 @@ Script
 
 Script,TBD
   R = "Not yet implemented\\n"
+Script
+
+// --------------- ABS 1 - Bidding in the 21st Century ---------------
+
+Script,ABS1-1-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-1 Getting Started - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-1-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-1 Getting Started - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-1-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-1 Getting Started - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-2-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-2 Objectives - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-2-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-2 Objectives - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-2-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-2 Objectives - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-3-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-3 Responses to 1NT Opening Bids - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-3-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-3 Responses to 1NT Opening Bids - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-3-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-3 Responses to 1NT Opening Bids - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-4-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-4 Responses to One of a Suit Opening Bids - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-4-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-4 Responses to One of a Suit Opening Bids - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-4-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-4 Responses to One of a Suit Opening Bids - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-5-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-5 Rebids by Opener - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-5-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-5 Rebids by Opener - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-5-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-5 Rebids by Opener - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-6-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-6 Rebids by Responder - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-6-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-6 Rebids by Responder - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-6-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-6 Rebids by Responder - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-7-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-7 Overcalls and Advances - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-7-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-7 Overcalls and Advances - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-7-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-7 Overcalls and Advances - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-8-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-8 Takeout Doubles and Advances - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-8-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-8 Takeout Doubles and Advances - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-8-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-8 Takeout Doubles and Advances - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-9-S
+  R  = "---\\n"
+  R += "Folder name:   ABS1-9 The Stayman Convention - S\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-9-NS
+  R  = "---\\n"
+  R += "Folder name:   ABS1-9 The Stayman Convention - NS\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
+Script
+
+Script,ABS1-9-All
+  R  = "---\\n"
+  R += "Folder name:   ABS1-9 The Stayman Convention - All\\n"
+  R += "Deal Source:   TBD\\n"
+  R += "Hand Writeups: TBD\\n"
 Script
 
 // --------------- ABS 2 - Play of the Hand in the 21st Century ---------------
@@ -396,6 +587,51 @@ Script
 // ----------- ABS1 - Bidding in the 21st Century ---------------
 
 Button,Bidding the Hand in the 21st Century,,width=100% backgroundColor=lightblue
+
+Button,Getting Started,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-1-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-1-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-1-All%,width=10% borderRadius=100%
+
+Button,Objectives,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-2-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-2-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-2-All%,width=10% borderRadius=100%
+
+Button,Responses to 1NT,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-3-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-3-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-3-All%,width=10% borderRadius=100%
+
+Button,Responses to 1 of a Suit,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-4-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-4-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-4-All%,width=10% borderRadius=100%
+
+Button,Rebids by Opener,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-5-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-5-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-5-All%,width=10% borderRadius=100%
+
+Button,Rebids by Responder,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-6-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-6-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-6-All%,width=10% borderRadius=100%
+
+Button,Overcalls and Advances,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-7-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-7-All%,width=10% borderRadius=100%
+
+Button,Takeout Doubles and Advances,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-8-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-8-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-8-All%,width=10% borderRadius=100%
+
+Button,The Stayman Convention,%ClickRoundButton%,width=70% backgroundColor=white
+Button,S,%ABS1-9-S%,width=10% borderRadius=100%
+Button,NS,%ABS1-9-NS%,width=10% borderRadius=100%
+Button,All,%ABS1-9-All%,width=10% borderRadius=100%
 
 // ----------- ABS2 - Play of the Hand in the 21st Century ---------------
 
