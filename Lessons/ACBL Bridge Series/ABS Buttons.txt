@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.19,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.20,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -207,190 +207,190 @@ Script
 Script,ABS3-1-S
   R  = "---\\n"
   R += "Folder name:   ABS3-1 Opening Leads Against NT - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/165KQyKHAMjBtxRIAKDETubEjOHX5Cvvp/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/15gahnAsaSVENYedJvza2LSC6iUmTMQYS/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-1-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-1 Opening Leads Against NT - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/16DVVM1lGSxodDz_CdSB5Ty0TxiwUre2B/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/15vT6GRExKnskGYD10j7Q7Fn5OHpDGYRQ/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-1-All
   R  = "---\\n"
   R += "Folder name:   ABS3-1 Opening Leads Against NT - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/16YpwJMTxhPfJ3Y_wljuxCx_jdiXmB3bb/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/16TEijHdexjynqXM8fjqZv2oRVHlilcfz/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-2-S
   R  = "---\\n"
   R += "Folder name:   ABS3-2 Opening Leads Against Suits - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/16pPKbC6oS5juJXWNBfURSU1bj01-Chny/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/16rAUlVywlRljDDxJ7qTJQg8uNuyi7pd9/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-2-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-2 Opening Leads Against Suits - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/16_oU4OfcGHnjQ7UommdSGrn8mdQT9epA/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/16b1f9JttGugULlu0YB7dIa1LTrGKK5Cx/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-2-All
   R  = "---\\n"
   R += "Folder name:   ABS3-2 Opening Leads Against Suits - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/176yR9f-8lp27SmtHgwYL0Wxf0C4RnyRx/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/177rVXFt8Z9EISiNy1M-bqwdXii0tOWo-/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-3-S
   R  = "---\\n"
   R += "Folder name:   ABS3-3 Third-Hand Play - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/17m8Pqew0eVSGENSDgm-GDIL-Y123sEjq/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/17mwi2QUCy-T4SyfucknNUbSNr54UzpNS/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-3-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-3 Third-Hand Play - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/17WUVEeSBVYU-k6opQEzLglfi6JuNA8SN/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/17ZAqW6IQHLChfgkYDvR3ZmZCwled94Lg/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-3-All
   R  = "---\\n"
   R += "Folder name:   ABS3-3 Third-Hand Play - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/17vd2MGgm5bWjneHhix6m0iz9DzaWh_Cf/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/18158WaZuH6Qgb9svsgOF4waF-KGt0Soa/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-4-S
   R  = "---\\n"
   R += "Folder name:   ABS3-4 Second-Hand Play - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/18yemAses8KKvvuwoCbr27Ww3BFCgjz7r/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/18bXGAKlNK2Lp-AXSsDFMdljOHueNHSs4/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-4-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-4 Second-Hand Play - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/19EavUdpP-u6Ky15mECu4Q-lnlJcz8OZk/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/18ncRLa97p4kcD3p4iUazhMUKf1mzrWbk/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-4-All
   R  = "---\\n"
   R += "Folder name:   ABS3-4 Second-Hand Play - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/19McCG5F9y8bW2SHa3tnTb1MS5L9GfbcI/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/19Jw54W4lgtF-xOucIe2vZ9HB1868YFxb/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-5-S
   R  = "---\\n"
   R += "Folder name:   ABS3-5 Defensive Signals - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1A0d5a26QmOSJYcAuG6demN7TIIoFbhl_/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1A5eIDGy_FT5J-Plh0boRo-D1ZL8KeeIo/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-5-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-5 Defensive Signals - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/19wEeX9GfTs4efNhkpLmeNkrZvxVIlSsn/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1A-mkDWwfjoL4u_VLizoiDqVy0sFAtRys/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-5-All
   R  = "---\\n"
   R += "Folder name:   ABS3-5 Defensive Signals - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1AILcgqW9PSoAra4TBYSKR26KahdOW5pS/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1AJVE-S0YhHjOFL-xK0srkw0yv7VKEplK/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-6-S
   R  = "---\\n"
   R += "Folder name:   ABS3-6 Developing Defensive Tricks - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1AaqUt0QuRFQD2LONNF-2A2mR69WkCm7H/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1Abnq6PJf0akvSObaw7dsbBiRht3Fdu4v/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-6-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-6 Developing Defensive Tricks - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1AXOYjfGq5xVMtyPxvxpyB-WSPa4avpyL/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1AZO7ne8EzTwRYgYWv1gJ8073yrt8bwIZ/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-6-All
   R  = "---\\n"
   R += "Folder name:   ABS3-6 Developing Defensive Tricks - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1BBJDcUR0mOeTQcflIrvCe_j7C8ZYgQQJ/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1BBKvZBn1ydfMI253wM4ByOc8jBLEdsBe/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-7-S
   R  = "---\\n"
   R += "Folder name:   ABS3-7 Interfering With Declarer - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1BrH1WvaxSlGbqxTzuuIFKiuyqHZpTjLq/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1BttcaMzwHpyaPH_ye7d6iobJ2UdkWDWV/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-7-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-7 Interfering With Declarer - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1BjROitsh1ypDB9mZ5SZx7i7wdi5q519v/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1BmJUGQPePsWGjXwQAb3J2-f204jJ63cN/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-7-All
   R  = "---\\n"
   R += "Folder name:   ABS3-7 Interfering With Declarer - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1C6pb5o_KZw1EEyBfGSHMhQwwyjGjDu_V/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1C8X1jv5wbnY9n4QgpUS2Adong-oB2kSS/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-8-S
   R  = "---\\n"
   R += "Folder name:   ABS3-8 Making a Plan - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1CEPoORh5O4cakvxsgD_WyE5USkOLDlBk/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1CFQZkzJhKnZrK67jeJVUFkMVhsW53zsl/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-8-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-8 Making a Plan - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1CzKe4tCKAkgT8N1LLv5yxAKLtj3_DYhQ/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1CATNqq6xPlRnBWRWJrXwzIbFPqJOEaI4/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-8-All
   R  = "---\\n"
   R += "Folder name:   ABS3-8 Making a Plan - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1DJ0Ya8jvlOOc9yR0aNVCdOhuAFdslG66/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1D72nl8QOpTR-BG2WcNj_zguxiUNfez5I/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-9-S
   R  = "---\\n"
   R += "Folder name:   ABS3-9 Negative Double - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1DsvHKSKx4XK7aYVpWq8-hj6G20UmXVVu/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1DzeSfqjZTmR05twSd783z5ACU5b8n4r6/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-9-NS
   R  = "---\\n"
   R += "Folder name:   ABS3-9 Negative Double - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1DZrg_dWU1nJs40zB3NY5V7gap-8OArLv/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1Df-V8FNIMCKiu_8xm154vrFGWhfQsbCQ/view?usp=drive_link\\n"
 Script
 
 Script,ABS3-9-All
   R  = "---\\n"
   R += "Folder name:   ABS3-9 Negative Double - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1EEKUfEycISWIrcPYAPwwefbSCKojoOfW/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1EFFKWgDYyBTe8gxRI04alFyi2EFFAlV1/view?usp=drive_link\\n"
 Script
 
 // ----------- ABS1 - Bidding in the 21st Century ---------------
