@@ -4,7 +4,7 @@ Script
 Button,ABCL Bridge Series 0.22,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
-  R = "Click round button for hand files\\n"
+  R = "Click round button for hand files - S for single-player, NS for 2-player, or All for 4-player\\n"
 Script
 
 Script,TBD
