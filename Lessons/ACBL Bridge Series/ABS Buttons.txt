@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.17,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.18,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -12,43 +12,43 @@ Script
 Script,ABS2-1-S
   R  = "---\\n"
   R += "Folder name:   ABS2-1 Making a Plan - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1-lqI6QJkm8mmxT_crIUX1kpx3D3RvSya/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1-mExlvlmNCycevMK0EsXoi289cap3WUe/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-1-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-1 Making a Plan - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1-b5d_jGiMiVNYzCM50YwhYAdbtHy5FuS/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1-dvFFQyoDmX6KmM1OXmW760koVgqvdRL/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-1-All
   R  = "---\\n"
   R += "Folder name:   ABS2-1 Making a Plan - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/102bZ2kuiwUA5SLNknv3-n4JVQLTCio4O/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/104JMtw8Gg0JpTIgwe8hBAcLQW7iIoJVd/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-2-S
   R  = "---\\n"
   R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10JXNtPTqvutEPQV8PsXnVSkZi8DA_y4K/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1JZx-S1xkykRml13J6n8cBTILuZezUq-w/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-2-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1-BHkrOl5ughQu5Y0MUtYIFAojqToj2Bn/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1l1YVBhccKcXVXCIIgtv9qugl_kQKA4SE/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-2-All
   R  = "---\\n"
   R += "Folder name:   ABS2-2 Developing Tricks - Promotion and Length - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/1-EiVcScGgi2jjjTYgh4e9VOyUB5PrDZc/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/1-GmdTavzdNKAUancPMyTOKegl_cVHu2a/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-3-S
@@ -75,127 +75,127 @@ Script
 Script,ABS2-4-S
   R  = "---\\n"
   R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10cleHqjJncNI1tf88WZA4-vnXmEX2ANK/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/10d6lpyzTRgPydX73UDxQ6sFJEyoy6Y0I/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-4-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10WMUFCISGa0Ff6CA6fSmms5k-ZEsMHf2/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/10Yry1SnokY2QNKfLYj3Zt42QQpyymaSf/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-4-All
   R  = "---\\n"
   R += "Folder name:   ABS2-4 Eliminating Losers - Ruffing and Discarding - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/10qmLTQBK5QvqwR3mliIzv_Dz4pxV7LRh/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/10BRYwqd-nPBEnDLQCwTLDkleZVKUMbqP/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-5-S
   R  = "---\\n"
   R += "Folder name:   ABS2-5 Watching Out for Entries - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/11EVlKOMQSC7FXI3-0e-R7d8m2MXuWz6P/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/11FmMFd0WhUISWsrwnyvlTMUK3qNLZNkv/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-5-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-5 Watching Out for Entries - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/11jEjtXY1At7M6eWzSTapg5AiLsgQ4bjJ/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/119rz0FZy7b7NbeKpatMu0GNH_OMfxJHq/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-5-All
   R  = "---\\n"
   R += "Folder name:   ABS2-5 Watching Out for Entries - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/11lY_1ByrOTVliy4GGf7tedvGyy03xz98/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/11R4U029ooVOnTIbR25omxcsWi0LeAHWR/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-6-S
   R  = "---\\n"
   R += "Folder name:   ABS2-6 Watching Out for the Opponents - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/12CNH-sxKqx-tUheEgQiNPPSQR-6Ioc7D/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/12G2RN39MG21aYHdhBgDT773mnt-GRv22/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-6-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-6 Watching Out for the Opponents - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/124sf5eKwOPxweOSUS6WSJPKQBgM_nlqw/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/127OVr-r5xs7BGeYMnwKhvyzOqziw_MLx/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-6-All
   R  = "---\\n"
   R += "Folder name:   ABS2-6 Watching Out for the Opponents - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/12V6iorW1ovJYSVy1ARwLqvZtO5yjW_nv/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/11qSVnxMAb7a3Gd-BRG0GJ4ZKvWVwCBbE/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-7-S
   R  = "---\\n"
   R += "Folder name:   ABS2-7 Managing the Trump Suit - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/12edWi2jH3qGUhWRnWLWZdywetXSCCZQ5/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/12gjLe0Me-0VadPSA-rnjLxjmMJMTPoIZ/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-7-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-7 Managing the Trump Suit - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/13HEFXyhJIg-pJBCxU-7VWoP87kDzPB2e/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/12YkkCj42iSl5Ykk3YkugB8UzRCl3-9A_/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-7-All
   R  = "---\\n"
   R += "Folder name:   ABS2-7 Managing the Trump Suit - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/12ybfr82yOqIb-UdZboRkMlefdlbdeatu/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/12z-Cn_tk3w4n0BNo-R5yQLKMELd17-i1/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-8-S
   R  = "---\\n"
   R += "Folder name:   ABS2-8 Putting It All Together - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/13nEf3pgKPHqS2GyxdhdSmfJjqbNi3KC8/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/14-1sm800JxNwNBbaX4cZKUSh-cjKJfIc/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-8-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-8 Putting It All Together - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/13gFuKl7kkMTDdX-5nm3AsbvS0_TulMuv/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/13jbFG66-JYUtr3Ti6bA2UYcikjguZ7Bi/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-8-All
   R  = "---\\n"
   R += "Folder name:   ABS2-8 Putting It All Together - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/147be82TPGPUFwfmedFWebG2IzxQL8J8_/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/13IqsV51djXcU9vYr6p3ahueEomntUlbC/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-9-S
   R  = "---\\n"
   R += "Folder name:   ABS2-9 Jacoby Transfers - S\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/14oax8BLMpXSImIU6wEOW0BwxW8QHyH5u/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/14rQIJqyi7HX-gbc3MMavFGEl3--Zg39v/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-9-NS
   R  = "---\\n"
   R += "Folder name:   ABS2-9 Jacoby Transfers - NS\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/14Z-Q5FoeknJt9wKC9ve1KmRgkFh3XSRH/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/14_vQd48cSAcbQyHtUvFf8kj-MnHS2LSR/view?usp=drive_link\\n"
 Script
 
 Script,ABS2-9-All
   R  = "---\\n"
   R += "Folder name:   ABS2-9 Jacoby Transfers - All\\n"
-  R += "Deal Source:   TBD\\n"
-  R += "Hand Writeups: TBD\\n"
+  R += "Deal Source:   https://drive.google.com/file/d/15DjGqUhFgIILPi4ZTNYXdg7UnbGwCSY8/view?usp=drive_link\\n"
+  R += "Hand Writeups: https://drive.google.com/file/d/15EUOmlU8Dqdz2NvPecq6yFuB8ttAEY_H/view?usp=drive_link\\n"
 Script
 
 // --------------- ABS 3 - Defense in the 21st Century ---------------
