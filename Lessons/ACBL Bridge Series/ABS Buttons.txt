@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.16,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.17,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -491,7 +491,7 @@ Button,S,%ABS3-9-S%,width=10% borderRadius=100%
 Button,NS,%ABS3-9-NS%,width=10% borderRadius=100%
 Button,All,%ABS3-9-All%,width=10% borderRadius=100%
 
-Button,Commonly Used Conventions in the 21st Century,,width=100% backgroundColor=lightblue
+Button,Commonly Used Conventions,,width=100% backgroundColor=lightblue
 
-Button,More Commonly Used Conventions in the 21st Century,,width=100% backgroundColor=lightblue
+Button,More Commonly Used Conventions,,width=100% backgroundColor=lightblue
 
