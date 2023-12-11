@@ -1,10 +1,14 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.18,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.19,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
+Script
+
+Script,TBD
+  R = "Not yet implemented\\n"
 Script
 
 // --------------- ABS 2 - Play of the Hand in the 21st Century ---------------
