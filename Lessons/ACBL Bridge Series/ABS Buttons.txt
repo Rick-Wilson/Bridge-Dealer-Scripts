@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.20,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.21,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -455,7 +455,7 @@ Button,S,%ABS3-1-S%,width=10% borderRadius=100%
 Button,NS,%ABS3-1-NS%,width=10% borderRadius=100%
 Button,All,%ABS3-1-All%,width=10% borderRadius=100%
 
-Button,Openint Leads Against Suits,%ClickRoundButton%,width=70% backgroundColor=white
+Button,Opening Leads Against Suits,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS3-2-S%,width=10% borderRadius=100%
 Button,NS,%ABS3-2-NS%,width=10% borderRadius=100%
 Button,All,%ABS3-2-All%,width=10% borderRadius=100%
