@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.15,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.16,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files\\n"
@@ -402,17 +402,17 @@ Button,S,%ABS2-1-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-1-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-1-All%,width=10% borderRadius=100%
 
-Button,Developing Tricks - Promotion and Length,%ClickRoundButton%,width=70% backgroundColor=white
+Button,Promotion and Length,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS2-2-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-2-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-2-All%,width=10% borderRadius=100%
 
-Button,Developing Tricks - the Finesse,%ClickRoundButton%,width=70% backgroundColor=white
+Button,The Finesse,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS2-3-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-3-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-3-All%,width=10% borderRadius=100%
 
-Button,Eliminating Losers - Ruffing and Discarding,%ClickRoundButton%,width=70% backgroundColor=white
+Button,Ruffing and Discarding,%ClickRoundButton%,width=70% backgroundColor=white
 Button,S,%ABS2-4-S%,width=10% borderRadius=100%
 Button,NS,%ABS2-4-NS%,width=10% borderRadius=100%
 Button,All,%ABS2-4-All%,width=10% borderRadius=100%
