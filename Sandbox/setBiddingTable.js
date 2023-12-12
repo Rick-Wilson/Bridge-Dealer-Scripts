@@ -12,7 +12,9 @@ Promise.resolve()
     .then(() => $(".menuGrid navigation-list-button .navClass", BBOcontext()).eq(4).click())
     .then(() => delay(delayValue))
     // press "Start a Teaching table"
-    .then(() => $(".menuGrid navigation-list-button .navClass", BBOcontext()).eq(13).click())
+    // .then(() => $(".menuGrid navigation-list-button .navClass", BBOcontext()).eq(13).click())
+    // press "Start a Bidding table"
+    .then(() => $(".menuGrid navigation-list-button .navClass", BBOcontext()).eq(11).click())
     .then(() => delay(delayValue))
     // click table switches. Eventually remove unwanted portions of code.
     // Disallow kibitzers
