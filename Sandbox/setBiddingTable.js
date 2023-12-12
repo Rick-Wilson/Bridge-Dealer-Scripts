@@ -68,5 +68,5 @@ function delay(duration) {
     //    .then(() => $(".nameBarClass :contains(South - Sit!)", BBOcontext()).eq(0).click()).then(() => delay(delayValue))
  //   .then(() => $("bridge-screen menu-item", BBOcontext()).eq(0).children().click()).then(() => delay(delayValue))
 
-Shortcut,STT,%setTeachingTable%
 */
+Shortcut,SBT,%setBiddingTable%
