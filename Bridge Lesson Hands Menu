@@ -1,5 +1,5 @@
 //BBOalert, Bridge Lesson Hands
-//BBOalert, Bridge Lesson Hands - version 0.0.22
+//BBOalert, Bridge Lesson Hands - version 0.0.23
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 Import,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Sandbox/setBiddingTable.js
 
