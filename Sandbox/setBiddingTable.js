@@ -1,4 +1,4 @@
-//BBOalert, Set Bidding Table v1.0
+//BBOalert, Set Bidding Table v1.1
 //Script,setBiddingTable
 var delayValue = 250;
 Promise.resolve()
@@ -6,8 +6,8 @@ Promise.resolve()
     .then(() => $("nav-bar button", BBOcontext()).eq(1).click())
     .then(() => delay(delayValue))
     // close dialog box if any
-    .then(() => $("server-prompt button",window.parent.document).eq(0).click())
-    .then(() => delay(delayValue))
+//    .then(() => $("server-prompt button",window.parent.document).eq(0).click())
+//    .then(() => delay(delayValue))
     // Press "Practice" button
     .then(() => $(".menuGrid navigation-list-button .navClass", BBOcontext()).eq(4).click())
     .then(() => delay(delayValue))
