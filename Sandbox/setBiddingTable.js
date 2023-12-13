@@ -1,4 +1,4 @@
-//BBOalert, Set Bidding Table v1.0
+//BBOalert, Set Bidding Table v0.1
 //Script,setBiddingTable
 var delayValue = 250;
 Promise.resolve()
