@@ -1,5 +1,5 @@
 //BBOalert, Bridge Lesson Hands
-//BBOalert, Bridge Lesson Hands - version 0.0.16
+//BBOalert, Bridge Lesson Hands - version 0.0.17
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 
 // Hide the Char, Word, All backspace buttons
@@ -79,6 +79,8 @@ For each individual doc file where the code is defined you should :
 - add BBOalert code to define the script and the button
 - publish the files as web page
 - add the Import statements with the URL od published web pages
+
+Button,Start Bidding Table,%SBT%,
 
 // Import,Lebensohl,https://github.com/ADavidBailey/Practice-Bidding-Scenarios/blob/main/Dealer%20Lebensohl.txt
 
