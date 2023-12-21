@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.32,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.33,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files - S for single-player, NS for 2-player, or All for 4-player\\n"
@@ -15,189 +15,189 @@ Script
 
 Script,ABS1-1-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-1 Getting Started - S\\n"
+  R += "Download LIN file and save to folder: ABS1-1 Getting Started - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-1-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-1 Getting Started - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-1 Getting Started - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-1-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-1 Getting Started - All\\n"
+  R += "Download LIN file and save to folder: ABS1-1 Getting Started - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-2-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-2 Objectives - S\\n"
+  R += "Download LIN file and save to folder: ABS1-2 Objectives - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-2-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-2 Objectives - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-2 Objectives - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-2-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-2 Objectives - All\\n"
+  R += "Download LIN file and save to folder: ABS1-2 Objectives - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-3-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-3 Responses to 1NT Opening Bids - S\\n"
+  R += "Download LIN file and save to folder: ABS1-3 Responses to 1NT Opening Bids - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-3-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-3 Responses to 1NT Opening Bids - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-3 Responses to 1NT Opening Bids - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-3-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-3 Responses to 1NT Opening Bids - All\\n"
+  R += "Download LIN file and save to folder: ABS1-3 Responses to 1NT Opening Bids - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-4-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-4 Responses to One of a Suit Opening Bids - S\\n"
+  R += "Download LIN file and save to folder: ABS1-4 Responses to One of a Suit Opening Bids - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-4-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-4 Responses to One of a Suit Opening Bids - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-4 Responses to One of a Suit Opening Bids - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-4-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-4 Responses to One of a Suit Opening Bids - All\\n"
+  R += "Download LIN file and save to folder: ABS1-4 Responses to One of a Suit Opening Bids - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-5-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-5 Rebids by Opener - S\\n"
+  R += "Download LIN file and save to folder: ABS1-5 Rebids by Opener - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-5-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-5 Rebids by Opener - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-5 Rebids by Opener - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-5-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-5 Rebids by Opener - All\\n"
+  R += "Download LIN file and save to folder: ABS1-5 Rebids by Opener - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-6-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-6 Rebids by Responder - S\\n"
+  R += "Download LIN file and save to folder: ABS1-6 Rebids by Responder - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-6-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-6 Rebids by Responder - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-6 Rebids by Responder - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-6-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-6 Rebids by Responder - All\\n"
+  R += "Download LIN file and save to folder: ABS1-6 Rebids by Responder - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-7-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-7 Overcalls and Advances - S\\n"
+  R += "Download LIN file and save to folder: ABS1-7 Overcalls and Advances - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-7-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-7 Overcalls and Advances - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-7 Overcalls and Advances - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-7-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-7 Overcalls and Advances - All\\n"
+  R += "Download LIN file and save to folder: ABS1-7 Overcalls and Advances - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-8-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-8 Takeout Doubles and Advances - S\\n"
+  R += "Download LIN file and save to folder: ABS1-8 Takeout Doubles and Advances - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-8-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-8 Takeout Doubles and Advances - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-8 Takeout Doubles and Advances - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-8-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-8 Takeout Doubles and Advances - All\\n"
+  R += "Download LIN file and save to folder: ABS1-8 Takeout Doubles and Advances - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-9-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-9 The Stayman Convention - S\\n"
+  R += "Download LIN file and save to folder: ABS1-9 The Stayman Convention - S\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-9-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-9 The Stayman Convention - NS\\n"
+  R += "Download LIN file and save to folder: ABS1-9 The Stayman Convention - NS\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
 
 Script,ABS1-9-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS1-9 The Stayman Convention - All\\n"
+  R += "Download LIN file and save to folder: ABS1-9 The Stayman Convention - All\\n"
   R += "TBD\\n";
   R += "TBD\\n";
 Script
@@ -206,189 +206,189 @@ Script
 
 Script,ABS2-1-S
   R  = "---\\n";
-  R += "Download LIN file and save to folder: ABS2-1 Making a Plan - S\\n";
+  R += "Download LIN file and save to folder:  ABS2-1 Making a Plan - S\\n";
   window.open("https://drive.google.com/file/d/1-lqI6QJkm8mmxT_crIUX1kpx3D3RvSya/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1-mExlvlmNCycevMK0EsXoi289cap3WUe/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-1-NS
   R  = "---\\n";
-  R += "Download LIN file and save to folder: ABS2-1 Making a Plan - NS\\n";
+  R += "Download LIN file and save to folder:  ABS2-1 Making a Plan - NS\\n";
   window.open("https://drive.google.com/file/d/1-dvFFQyoDmX6KmM1OXmW760koVgqvdRL/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1-b5d_jGiMiVNYzCM50YwhYAdbtHy5FuS/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-1-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder: ABS2-1 Making a Plan - All\\n";
+  R += "Download LIN file and save to folder:  ABS2-1 Making a Plan - All\\n";
   window.open("https://drive.google.com/file/d/102bZ2kuiwUA5SLNknv3-n4JVQLTCio4O/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/104JMtw8Gg0JpTIgwe8hBAcLQW7iIoJVd/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-2-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-2 Developing Tricks - Promotion and Length - S\\n"
+  R += "Download LIN file and save to folder: ABS2-2 Developing Tricks - Promotion and Length - S\\n"
   window.open("https://drive.google.com/file/d/10JXNtPTqvutEPQV8PsXnVSkZi8DA_y4K/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1JZx-S1xkykRml13J6n8cBTILuZezUq-w/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-2-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-2 Developing Tricks - Promotion and Length - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-2 Developing Tricks - Promotion and Length - NS\\n"
   window.open("https://drive.google.com/file/d/1-BHkrOl5ughQu5Y0MUtYIFAojqToj2Bn/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1l1YVBhccKcXVXCIIgtv9qugl_kQKA4SE/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-2-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-2 Developing Tricks - Promotion and Length - All\\n"
+  R += "Download LIN file and save to folder: ABS2-2 Developing Tricks - Promotion and Length - All\\n"
   window.open("https://drive.google.com/file/d/1-EiVcScGgi2jjjTYgh4e9VOyUB5PrDZc/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1-GmdTavzdNKAUancPMyTOKegl_cVHu2a/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-3-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-3 Developing Tricks: the Finesse - S\\n"
+  R += "Download LIN file and save to folder: ABS2-3 Developing Tricks: the Finesse - S\\n"
   window.open("https://drive.google.com/file/d/101UUsapsehWg27JoQlDC7751kcmAc3DY/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1-eNBzuJOOS7q1QyWWEEkHGoMzoZuP5GB/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-3-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-3 Developing Tricks: the Finesse - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-3 Developing Tricks: the Finesse - NS\\n"
   window.open("https://drive.google.com/file/d/10La5IUAXoSXcZ4ayjfF8PBbdio29rMtW/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/10YfWgJ0aMkHvEvZaVZFp8FVyDPAQ5fmo/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-3-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-3 Developing Tricks: the Finesse - All\\n"
+  R += "Download LIN file and save to folder: ABS2-3 Developing Tricks: the Finesse - All\\n"
   window.open("https://drive.google.com/file/d/10Mv7Nq-mbYAQfe6KfnoFd4-GSiPhHMeo/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/10VrXoPm_oOMjNafqRoHAMTOv_mA-53Gi/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-4-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-4 Eliminating Losers - Ruffing and Discarding - S\\n"
+  R += "Download LIN file and save to folder: ABS2-4 Eliminating Losers - Ruffing and Discarding - S\\n"
   window.open("https://drive.google.com/file/d/10cleHqjJncNI1tf88WZA4-vnXmEX2ANK/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/10d6lpyzTRgPydX73UDxQ6sFJEyoy6Y0I/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-4-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-4 Eliminating Losers - Ruffing and Discarding - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-4 Eliminating Losers - Ruffing and Discarding - NS\\n"
   window.open("https://drive.google.com/file/d/10WMUFCISGa0Ff6CA6fSmms5k-ZEsMHf2/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/10Yry1SnokY2QNKfLYj3Zt42QQpyymaSf/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-4-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-4 Eliminating Losers - Ruffing and Discarding - All\\n"
+  R += "Download LIN file and save to folder: ABS2-4 Eliminating Losers - Ruffing and Discarding - All\\n"
   window.open("https://drive.google.com/file/d/10qmLTQBK5QvqwR3mliIzv_Dz4pxV7LRh/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/10BRYwqd-nPBEnDLQCwTLDkleZVKUMbqP/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-5-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-5 Watching Out for Entries - S\\n"
+  R += "Download LIN file and save to folder: ABS2-5 Watching Out for Entries - S\\n"
   window.open("https://drive.google.com/file/d/11EVlKOMQSC7FXI3-0e-R7d8m2MXuWz6P/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/11FmMFd0WhUISWsrwnyvlTMUK3qNLZNkv/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-5-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-5 Watching Out for Entries - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-5 Watching Out for Entries - NS\\n"
   window.open("https://drive.google.com/file/d/11jEjtXY1At7M6eWzSTapg5AiLsgQ4bjJ/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/119rz0FZy7b7NbeKpatMu0GNH_OMfxJHq/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-5-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-5 Watching Out for Entries - All\\n"
+  R += "Download LIN file and save to folder: ABS2-5 Watching Out for Entries - All\\n"
   window.open("https://drive.google.com/file/d/11lY_1ByrOTVliy4GGf7tedvGyy03xz98/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/11R4U029ooVOnTIbR25omxcsWi0LeAHWR/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-6-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-6 Watching Out for the Opponents - S\\n"
+  R += "Download LIN file and save to folder: ABS2-6 Watching Out for the Opponents - S\\n"
   window.open("https://drive.google.com/file/d/12CNH-sxKqx-tUheEgQiNPPSQR-6Ioc7D/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/12G2RN39MG21aYHdhBgDT773mnt-GRv22/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-6-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-6 Watching Out for the Opponents - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-6 Watching Out for the Opponents - NS\\n"
   window.open("https://drive.google.com/file/d/124sf5eKwOPxweOSUS6WSJPKQBgM_nlqw/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/127OVr-r5xs7BGeYMnwKhvyzOqziw_MLx/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-6-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-6 Watching Out for the Opponents - All\\n"
+  R += "Download LIN file and save to folder: ABS2-6 Watching Out for the Opponents - All\\n"
   window.open("https://drive.google.com/file/d/12V6iorW1ovJYSVy1ARwLqvZtO5yjW_nv/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/11qSVnxMAb7a3Gd-BRG0GJ4ZKvWVwCBbE/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-7-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-7 Managing the Trump Suit - S\\n"
+  R += "Download LIN file and save to folder: ABS2-7 Managing the Trump Suit - S\\n"
   window.open("https://drive.google.com/file/d/12edWi2jH3qGUhWRnWLWZdywetXSCCZQ5/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/12gjLe0Me-0VadPSA-rnjLxjmMJMTPoIZ/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-7-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-7 Managing the Trump Suit - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-7 Managing the Trump Suit - NS\\n"
   window.open("https://drive.google.com/file/d/13HEFXyhJIg-pJBCxU-7VWoP87kDzPB2e/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/12YkkCj42iSl5Ykk3YkugB8UzRCl3-9A_/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-7-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-7 Managing the Trump Suit - All\\n"
+  R += "Download LIN file and save to folder: ABS2-7 Managing the Trump Suit - All\\n"
   window.open("https://drive.google.com/file/d/12ybfr82yOqIb-UdZboRkMlefdlbdeatu/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/12z-Cn_tk3w4n0BNo-R5yQLKMELd17-i1/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-8-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-8 Putting It All Together - S\\n"
+  R += "Download LIN file and save to folder: ABS2-8 Putting It All Together - S\\n"
   window.open("https://drive.google.com/file/d/13nEf3pgKPHqS2GyxdhdSmfJjqbNi3KC8/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/14-1sm800JxNwNBbaX4cZKUSh-cjKJfIc/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-8-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-8 Putting It All Together - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-8 Putting It All Together - NS\\n"
   window.open("https://drive.google.com/file/d/13gFuKl7kkMTDdX-5nm3AsbvS0_TulMuv/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/13jbFG66-JYUtr3Ti6bA2UYcikjguZ7Bi/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-8-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-8 Putting It All Together - All\\n"
+  R += "Download LIN file and save to folder: ABS2-8 Putting It All Together - All\\n"
   window.open("https://drive.google.com/file/d/147be82TPGPUFwfmedFWebG2IzxQL8J8_/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/13IqsV51djXcU9vYr6p3ahueEomntUlbC/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-9-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-9 Jacoby Transfers - S\\n"
+  R += "Download LIN file and save to folder: ABS2-9 Jacoby Transfers - S\\n"
   window.open("https://drive.google.com/file/d/14oax8BLMpXSImIU6wEOW0BwxW8QHyH5u/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/14rQIJqyi7HX-gbc3MMavFGEl3--Zg39v/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-9-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-9 Jacoby Transfers - NS\\n"
+  R += "Download LIN file and save to folder: ABS2-9 Jacoby Transfers - NS\\n"
   window.open("https://drive.google.com/file/d/14Z-Q5FoeknJt9wKC9ve1KmRgkFh3XSRH/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/14_vQd48cSAcbQyHtUvFf8kj-MnHS2LSR/view?usp=drive_link", "doc");
 Script
 
 Script,ABS2-9-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS2-9 Jacoby Transfers - All\\n"
+  R += "Download LIN file and save to folder: ABS2-9 Jacoby Transfers - All\\n"
   window.open("https://drive.google.com/file/d/15DjGqUhFgIILPi4ZTNYXdg7UnbGwCSY8/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/15EUOmlU8Dqdz2NvPecq6yFuB8ttAEY_H/view?usp=drive_link", "doc");
 Script
@@ -397,189 +397,189 @@ Script
 
 Script,ABS3-1-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-1 Opening Leads Against NT - S\\n"
+  R += "Download LIN file and save to folder: ABS3-1 Opening Leads Against NT - S\\n"
   window.open("https://drive.google.com/file/d/165KQyKHAMjBtxRIAKDETubEjOHX5Cvvp/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/15gahnAsaSVENYedJvza2LSC6iUmTMQYS/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-1-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-1 Opening Leads Against NT - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-1 Opening Leads Against NT - NS\\n"
   window.open("https://drive.google.com/file/d/16DVVM1lGSxodDz_CdSB5Ty0TxiwUre2B/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/15vT6GRExKnskGYD10j7Q7Fn5OHpDGYRQ/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-1-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-1 Opening Leads Against NT - All\\n"
+  R += "Download LIN file and save to folder: ABS3-1 Opening Leads Against NT - All\\n"
   window.open("https://drive.google.com/file/d/16YpwJMTxhPfJ3Y_wljuxCx_jdiXmB3bb/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/16TEijHdexjynqXM8fjqZv2oRVHlilcfz/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-2-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-2 Opening Leads Against Suits - S\\n"
+  R += "Download LIN file and save to folder: ABS3-2 Opening Leads Against Suits - S\\n"
   window.open("https://drive.google.com/file/d/16pPKbC6oS5juJXWNBfURSU1bj01-Chny/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/16rAUlVywlRljDDxJ7qTJQg8uNuyi7pd9/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-2-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-2 Opening Leads Against Suits - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-2 Opening Leads Against Suits - NS\\n"
   window.open("https://drive.google.com/file/d/16_oU4OfcGHnjQ7UommdSGrn8mdQT9epA/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/16b1f9JttGugULlu0YB7dIa1LTrGKK5Cx/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-2-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-2 Opening Leads Against Suits - All\\n"
+  R += "Download LIN file and save to folder: ABS3-2 Opening Leads Against Suits - All\\n"
   window.open("https://drive.google.com/file/d/176yR9f-8lp27SmtHgwYL0Wxf0C4RnyRx/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/177rVXFt8Z9EISiNy1M-bqwdXii0tOWo-/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-3-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-3 Third-Hand Play - S\\n"
+  R += "Download LIN file and save to folder: ABS3-3 Third-Hand Play - S\\n"
   window.open("https://drive.google.com/file/d/17m8Pqew0eVSGENSDgm-GDIL-Y123sEjq/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/17mwi2QUCy-T4SyfucknNUbSNr54UzpNS/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-3-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-3 Third-Hand Play - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-3 Third-Hand Play - NS\\n"
   window.open("https://drive.google.com/file/d/17WUVEeSBVYU-k6opQEzLglfi6JuNA8SN/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/17ZAqW6IQHLChfgkYDvR3ZmZCwled94Lg/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-3-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-3 Third-Hand Play - All\\n"
+  R += "Download LIN file and save to folder: ABS3-3 Third-Hand Play - All\\n"
   window.open("https://drive.google.com/file/d/17vd2MGgm5bWjneHhix6m0iz9DzaWh_Cf/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/18158WaZuH6Qgb9svsgOF4waF-KGt0Soa/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-4-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-4 Second-Hand Play - S\\n"
+  R += "Download LIN file and save to folder: ABS3-4 Second-Hand Play - S\\n"
   window.open("https://drive.google.com/file/d/18yemAses8KKvvuwoCbr27Ww3BFCgjz7r/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/18bXGAKlNK2Lp-AXSsDFMdljOHueNHSs4/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-4-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-4 Second-Hand Play - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-4 Second-Hand Play - NS\\n"
   window.open("https://drive.google.com/file/d/19EavUdpP-u6Ky15mECu4Q-lnlJcz8OZk/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/18ncRLa97p4kcD3p4iUazhMUKf1mzrWbk/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-4-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-4 Second-Hand Play - All\\n"
+  R += "Download LIN file and save to folder: ABS3-4 Second-Hand Play - All\\n"
   window.open("https://drive.google.com/file/d/19McCG5F9y8bW2SHa3tnTb1MS5L9GfbcI/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/19Jw54W4lgtF-xOucIe2vZ9HB1868YFxb/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-5-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-5 Defensive Signals - S\\n"
+  R += "Download LIN file and save to folder: ABS3-5 Defensive Signals - S\\n"
   window.open("https://drive.google.com/file/d/1A0d5a26QmOSJYcAuG6demN7TIIoFbhl_/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1A5eIDGy_FT5J-Plh0boRo-D1ZL8KeeIo/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-5-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-5 Defensive Signals - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-5 Defensive Signals - NS\\n"
   window.open("https://drive.google.com/file/d/19wEeX9GfTs4efNhkpLmeNkrZvxVIlSsn/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1A-mkDWwfjoL4u_VLizoiDqVy0sFAtRys/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-5-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-5 Defensive Signals - All\\n"
+  R += "Download LIN file and save to folder: ABS3-5 Defensive Signals - All\\n"
   window.open("https://drive.google.com/file/d/1AILcgqW9PSoAra4TBYSKR26KahdOW5pS/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1AJVE-S0YhHjOFL-xK0srkw0yv7VKEplK/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-6-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-6 Developing Defensive Tricks - S\\n"
+  R += "Download LIN file and save to folder: ABS3-6 Developing Defensive Tricks - S\\n"
   window.open("https://drive.google.com/file/d/1AaqUt0QuRFQD2LONNF-2A2mR69WkCm7H/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1Abnq6PJf0akvSObaw7dsbBiRht3Fdu4v/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-6-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-6 Developing Defensive Tricks - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-6 Developing Defensive Tricks - NS\\n"
   window.open("https://drive.google.com/file/d/1AXOYjfGq5xVMtyPxvxpyB-WSPa4avpyL/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1AZO7ne8EzTwRYgYWv1gJ8073yrt8bwIZ/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-6-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-6 Developing Defensive Tricks - All\\n"
+  R += "Download LIN file and save to folder: ABS3-6 Developing Defensive Tricks - All\\n"
   window.open("https://drive.google.com/file/d/1BBJDcUR0mOeTQcflIrvCe_j7C8ZYgQQJ/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1BBKvZBn1ydfMI253wM4ByOc8jBLEdsBe/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-7-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-7 Interfering With Declarer - S\\n"
+  R += "Download LIN file and save to folder: ABS3-7 Interfering With Declarer - S\\n"
   window.open("https://drive.google.com/file/d/1BrH1WvaxSlGbqxTzuuIFKiuyqHZpTjLq/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1BttcaMzwHpyaPH_ye7d6iobJ2UdkWDWV/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-7-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-7 Interfering With Declarer - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-7 Interfering With Declarer - NS\\n"
   window.open("https://drive.google.com/file/d/1BjROitsh1ypDB9mZ5SZx7i7wdi5q519v/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1BmJUGQPePsWGjXwQAb3J2-f204jJ63cN/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-7-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-7 Interfering With Declarer - All\\n"
+  R += "Download LIN file and save to folder: ABS3-7 Interfering With Declarer - All\\n"
   window.open("https://drive.google.com/file/d/1C6pb5o_KZw1EEyBfGSHMhQwwyjGjDu_V/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1C8X1jv5wbnY9n4QgpUS2Adong-oB2kSS/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-8-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-8 Making a Plan - S\\n"
+  R += "Download LIN file and save to folder: ABS3-8 Making a Plan - S\\n"
   window.open("https://drive.google.com/file/d/1CEPoORh5O4cakvxsgD_WyE5USkOLDlBk/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1CFQZkzJhKnZrK67jeJVUFkMVhsW53zsl/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-8-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-8 Making a Plan - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-8 Making a Plan - NS\\n"
   window.open("https://drive.google.com/file/d/1CzKe4tCKAkgT8N1LLv5yxAKLtj3_DYhQ/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1CATNqq6xPlRnBWRWJrXwzIbFPqJOEaI4/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-8-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-8 Making a Plan - All\\n"
+  R += "Download LIN file and save to folder: ABS3-8 Making a Plan - All\\n"
   window.open("https://drive.google.com/file/d/1DJ0Ya8jvlOOc9yR0aNVCdOhuAFdslG66/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1D72nl8QOpTR-BG2WcNj_zguxiUNfez5I/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-9-S
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-9 Negative Double - S\\n"
+  R += "Download LIN file and save to folder: ABS3-9 Negative Double - S\\n"
   window.open("https://drive.google.com/file/d/1DsvHKSKx4XK7aYVpWq8-hj6G20UmXVVu/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1DzeSfqjZTmR05twSd783z5ACU5b8n4r6/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-9-NS
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-9 Negative Double - NS\\n"
+  R += "Download LIN file and save to folder: ABS3-9 Negative Double - NS\\n"
   window.open("https://drive.google.com/file/d/1DZrg_dWU1nJs40zB3NY5V7gap-8OArLv/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1Df-V8FNIMCKiu_8xm154vrFGWhfQsbCQ/view?usp=drive_link", "doc");
 Script
 
 Script,ABS3-9-All
   R  = "---\\n"
-  R += "Download LIN file and save to folder:ABS3-9 Negative Double - All\\n"
+  R += "Download LIN file and save to folder: ABS3-9 Negative Double - All\\n"
   window.open("https://drive.google.com/file/d/1EEKUfEycISWIrcPYAPwwefbSCKojoOfW/view?usp=drive_link", "lin");
   window.open("https://drive.google.com/file/d/1EFFKWgDYyBTe8gxRI04alFyi2EFFAlV1/view?usp=drive_link", "doc");
 Script
