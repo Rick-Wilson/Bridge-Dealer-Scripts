@@ -1,0 +1,278 @@
+% PBN 2.1
+% EXPORT
+%Content-type: text/x-pbn; charset=ISO-8859-1
+%Creator: BridgeComposer Version 5.105
+%Created: Sun Dec 10 12:23:40 2023 -0800
+%BCOptions Float Justify NoHRStats PageHeader STBorder STShade ShowHCP
+%BidAndCardSpacing Hair
+%BoardsPerPage 1
+%CardTableColors #008000,#ffffff,#aaaaaa
+%DDAFormat 0
+%DefaultPagination 0
+%Font:CardTable "Arial",11,400,0
+%Font:Commentary "Arial",12,400,0
+%Font:Diagram "Arial",12,400,0
+%Font:Event "Arial",18,400,0
+%Font:FixedPitch "Courier New",10,400,0
+%Font:HandRecord "Arial",11,400,0
+%GutterSize 500,500
+%HRTitleDate 2023.10.03
+%HRTitleEvent "ABS2-1 Making a Plan"
+%HRTitleSetID ""
+%HRTitleSetIDPrefix ""
+%HRTitleSite ""
+%HtmlClubs entity,"http://bridgecomposer.com/suitimg/c.gif"
+%HtmlDiamonds entity,"http://bridgecomposer.com/suitimg/d.gif"
+%HtmlHearts entity,"http://bridgecomposer.com/suitimg/h.gif"
+%HtmlNavBar 0.75,#cfe2f3
+%HtmlSpades entity,"http://bridgecomposer.com/suitimg/s.gif"
+%Margins 1000,1000,1000,1000
+%PageFooter:0,0 "%D"
+%PageFooter:0,2 "Page %n"
+%PageFooterFirstPageNumber 4
+%PaperSize 1,2159,2794,2
+%ParaIndent 0
+%PipColors #000000,#ff0000,#ff0000,#000000
+%PipFont "Cards Decorative","Cards",0,0x53,0x48,0x44,0x43
+%ScoreTableColors #e6e6e6,#000000
+%SectionSpacing 12,0,0
+%SelectedBoard 0
+%ShowBoardLabels 1
+%ShowCardTable 2
+%TSTCustomSortOrder Default
+%TSTReport List
+%TSTReportOrder ByNumber
+%TSTReportShade Yes
+%Translate "Board %" "Deal %"
+[Event "Making a Plan"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:75.732.AQT63.A92 943.QJ984.2.J874 A82.K5.KJ854.KQ3 KQJT6.AT6.97.T65"]
+[Scoring ""]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+{<b>Declarer PLAN</b>:
+
+1. <b>P</b>ause to consider your objective (9 tricks.)
+
+2. <b>L</b>ook at your winners and losers (9 winners.)
+
+3. <b>A</b>nalyze your alternatives (don't need any extra winners.)
+
+4. <b>N</b>ow put it all together (Take your 9 winners.)}
+[BCFlags "81d"]
+[DoubleDummyTricks "855a7956a74873648736"]
+[OptimumScore "EW -300"]
+[ParContract "EW 4SX-2"]
+[RotationBasis "S"]
+[Auction "N"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "W"]
+SK
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  5
+N  H  5
+N  D 10
+N  C  7
+S NT  9
+S  S  5
+S  H  6
+S  D 10
+S  C  7
+E NT  4
+E  S  8
+E  H  7
+E  D  3
+E  C  6
+W NT  4
+W  S  8
+W  H  7
+W  D  3
+W  C  6
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A843.AT5.A986.Q5 KJ97.Q8.QJ2.T876 T52.974.753.AKJ3 Q6.KJ632.KT4.942"]
+[Scoring ""]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+{<b>Declarer PLAN</b>:
+
+1. <b>P</b>ause to consider your objective (7 tricks.)
+
+2. <b>L</b>ook at your winners and losers (7 winners.)
+
+3. <b>A</b>nalyze your alternatives (don't need any extra winners.)
+
+4. <b>N</b>ow put it all together (Take your 9 winners.)
+
+NOTE: Declarer must start clubs by playing the \CQ (high card from the short
+side) to avoid stranding his club winners..}
+[BCFlags "81d"]
+[DoubleDummyTricks "77777777776565665656"]
+[OptimumScore "NS 90"]
+[ParContract "NS 1N="]
+[RotationBasis "W"]
+[Auction "N"]
+1D Pass 1NT AP
+[Play "W"]
+H3
+[OptimumResultTable "Declarer;Denomination\2R;Result\1R"]
+N NT 7
+N  S 7
+N  H 7
+N  D 7
+N  C 7
+S NT 7
+S  S 7
+S  H 7
+S  D 7
+S  C 7
+E NT 6
+E  S 5
+E  H 6
+E  D 5
+E  C 6
+W NT 6
+W  S 5
+W  H 6
+W  D 5
+W  C 6
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQ8..97432.QJT54 J52.AQ9.AQ8.A973 K9743.7542.T6.K8 T6.KJT863.KJ5.62"]
+[Scoring ""]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+{<b>Declarer PLAN</b>:
+
+1. <b>P</b>ause to consider your objective (10 tricks.)
+
+2. <b>L</b>ook at your winners and losers (3 losers.)
+
+3. <b>A</b>nalyze your alternatives (don't need to fix any losers.)
+
+4. <b>N</b>ow put it all together (Draw trumps as soon as possible.)
+
+NOTE: Play \HAQ first, then low to \HK.}
+[BCFlags "81d"]
+[DoubleDummyTricks "84a6484a643836738367"]
+[OptimumScore "EW -300"]
+[ParContract "EW 4SX-2"]
+[RotationBasis "E"]
+[Auction "W"]
+Pass 1NT Pass 4H
+AP
+[Play "W"]
+CQ
+[OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
+N NT  8
+N  S  4
+N  H 10
+N  D  6
+N  C  4
+S NT  8
+S  S  4
+S  H 10
+S  D  6
+S  C  4
+E NT  3
+E  S  8
+E  H  3
+E  D  6
+E  C  7
+W NT  3
+W  S  8
+W  H  3
+W  D  6
+W  C  7
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A7.976432.AJ6.94 KQJT3.AQ5.94.863 952.J8.KQT2.KQJT 864.KT.8753.A752"]
+[Scoring ""]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+{<b>Declarer PLAN</b>:
+
+1. <b>P</b>ause to consider your objective (8 tricks.)
+
+2. <b>L</b>ook at your winners and losers (5 losers.)
+
+3. <b>A</b>nalyze your alternatives (don't need to fix any losers.)
+
+4. <b>N</b>ow put it all together (Draw trumps as soon as possible.)
+
+Note choice of opening leads.
+
+If declarer doesn't draw trump before taking his tricks in hearts, West will
+ruff.}
+[BCFlags "81d"]
+[DoubleDummyTricks "58445584455588855888"]
+[OptimumScore "NS 110"]
+[ParContract "NS 2S="]
+[RotationBasis "N"]
+[Auction "E"]
+Pass 1S Pass 2S
+AP
+[Play "W"]
+CK
+[OptimumResultTable "Declarer;Denomination\2R;Result\1R"]
+N NT 5
+N  S 8
+N  H 4
+N  D 4
+N  C 5
+S NT 5
+S  S 8
+S  H 4
+S  D 4
+S  C 5
+E NT 5
+E  S 5
+E  H 8
+E  D 8
+E  C 8
+W NT 5
+W  S 5
+W  H 8
+W  D 8
+W  C 8
