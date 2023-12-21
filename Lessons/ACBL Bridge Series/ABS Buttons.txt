@@ -1,7 +1,7 @@
 Script,ABS
 Script
 
-Button,ABCL Bridge Series 0.26,,width=100% backgroundColor=orange
+Button,ABCL Bridge Series 0.27,,width=100% backgroundColor=orange
 
 Script,ClickRoundButton
   R = "Click round button for hand files - S for single-player, NS for 2-player, or All for 4-player\\n"
@@ -209,8 +209,11 @@ Script,ABS2-1-S
   R += "Folder name:   ABS2-1 Making a Plan - S\\n"
   R += "Deal Source:   https://drive.google.com/file/d/1-lqI6QJkm8mmxT_crIUX1kpx3D3RvSya/view?usp=drive_link\\n"
   R += "Hand Writeups: https://drive.google.com/file/d/1-mExlvlmNCycevMK0EsXoi289cap3WUe/view?usp=drive_link\\n"
-  window.open("https://drive.google.com/file/d/1-lqI6QJkm8mmxT_crIUX1kpx3D3RvSya/view?usp=drive_link", "mozillaWindow", "popup");
-  window.open("https://drive.google.com/file/d/1-mExlvlmNCycevMK0EsXoi289cap3WUe/view?usp=drive_link", "mozillaWindow", "popup");
+  if confirm("Open the Deal file (NO will open the Doc file)?") {
+    window.open("https://drive.google.com/file/d/1-lqI6QJkm8mmxT_crIUX1kpx3D3RvSya/view?usp=drive_link", "mozillaWindow", "popup");
+  } else {
+    window.open("https://drive.google.com/file/d/1-mExlvlmNCycevMK0EsXoi289cap3WUe/view?usp=drive_link", "mozillaWindow", "popup");
+  }
 Script
 
 Script,ABS2-1-NS
