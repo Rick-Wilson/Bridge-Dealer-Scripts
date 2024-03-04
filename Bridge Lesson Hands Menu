@@ -1,7 +1,8 @@
 //BBOalert, Bridge Lesson Hands
-//BBOalert, Bridge Lesson Hands - version 0.0.27
+//BBOalert, Bridge Lesson Hands - version 0.0.28
 Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setDealerCode.js
 Import,https://github.com/Rick-Wilson/Bridge-Dealer-Scripts/blob/main/Sandbox/setBiddingTable.js
+Import,https://github.com/stanmaz/BBOalert/blob/master/Scripts/setTeachingTable.js
 
 // Hide the Char, Word, All backspace buttons
 Script,onDataLoad,$("#adpanel2 button:lt(3)").hide();
@@ -81,7 +82,7 @@ For each individual doc file where the code is defined you should :
 - publish the files as web page
 - add the Import statements with the URL od published web pages
 
-Button,Start a Practice Table,,width=100% backgroundColor=lightBlue
+Button,Start a Practice Table (from Home screen only),,width=100% backgroundColor=lightBlue
 Button,Start Bidding Table,%setBiddingTable%,width=50%
 Button,Start Teaching Table,%setTeachingTable%,width=50%
 
